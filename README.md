@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-21-badwahe&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-21-badwahe" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 **SOFTWARE DEVELOPER**
 
 - 👨‍💻 All of my projects are available at [https://anuragbadwaheportfolio.vercel.app/](https://anuragbadwaheportfolio.vercel.app/)
 
