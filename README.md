@@ -40,14 +40,17 @@ Other          MATLAB
 <a href="https://auth.geeksforgeeks.org/user/anuragbadwahe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-21-badwahe&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-21-badwahe&theme=dark" alt="GitHub Streak" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-21-badwahe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-21-badwahe&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </p>
 </div>
 
 ### 🏆 Recent Achievements
