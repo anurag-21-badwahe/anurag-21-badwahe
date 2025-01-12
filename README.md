@@ -25,7 +25,7 @@
 - 🌱 I'm passionate about **Web Development** & **Software Engineering**
 - 👨‍💻 Portfolio: [anuragbadwaheportfolio.vercel.app](https://anuragbadwaheportfolio.vercel.app/)
 - 📫 Email: **anuragbadwahe@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1qR-axo1k1z8lB6x5x3-9D2n2LQGpEfS_/view)
+- 📄 My Resume : [Resume](https://drive.google.com/file/d/1qR-axo1k1z8lB6x5x3-9D2n2LQGpEfS_/view)
 - ⚡ Fun fact: I find joy in coding and making people laugh 😄
 
 ### 🛠️ Tech Stack
@@ -68,8 +68,8 @@
   </tr>
 </table>
 <p>
-  
-[![GitHub Streak](https://github-readme-streak-stats-three-jet.vercel.app?user=Anurag_badwahe&theme=tokyonight-duo)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=anurag-21-badwahe&theme=tokyonight-duo&hide
+
 </p>
 <p align="center">
   <a href="https://github.com/anurag-21-badwahe/github-readme-activity-graph">
