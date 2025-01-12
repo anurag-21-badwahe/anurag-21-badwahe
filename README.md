@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anurag-21-badwahe" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-21-badwahe&background=0D1117&border=30363D&stroke=30363D&ring=00DD8D&fire=00DD8D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
 </p>
 <p align="center">
   <a href="https://github.com/anurag-21-badwahe/github-readme-activity-graph">
