@@ -1,38 +1,61 @@
 <h1 align="center">Hi 👋, I'm Anurag Badwahe</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anurag-21-badwahe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  [![GitHub followers](https://img.shields.io/github/followers/anurag-21-badwahe?style=social)](https://github.com/anurag-21-badwahe)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/anuragbadwahe?style=social)](https://twitter.com/anuragbadwahe)
+</div>
 
-<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
+### 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-21-badwahe&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-21-badwahe" /> </p>
+- 🔭 I'm currently working as a **Software Developer**
+- 🌱 I'm passionate about building scalable web applications
+- 👨‍💻 Check out my portfolio: [anuragbadwaheportfolio.vercel.app](https://anuragbadwaheportfolio.vercel.app/)
+- 📫 Reach me at: **anuragbadwahe@gmail.com**
+- 📄 View my [Resume](https://drive.google.com/file/d/15whUH7XdVeV64q9gXq8fkTnEtBZZyErh/view)
+- ⚡ Fun fact: I find joy in coding and making people laugh 😄
 
-- 🌱 **SOFTWARE DEVELOPER**
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://anuragbadwaheportfolio.vercel.app/](https://anuragbadwaheportfolio.vercel.app/)
+```text
+Frontend       HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Bootstrap
+Backend        Node.js, Express.js
+Databases      MongoDB, MySQL
+Languages      C++, Java
+Tools          Git, Postman, Figma
+Other          MATLAB
+```
 
-- 📫 How to reach me **anuragbadwahe@gmail.com**
+### 🤝 Connect with me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15whUH7XdVeV64q9gXq8fkTnEtBZZyErh/view](https://drive.google.com/file/d/15whUH7XdVeV64q9gXq8fkTnEtBZZyErh/view)
-
-- ⚡ Fun fact **I think i am funny😅**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuragbadwahe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbadwahe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag badwahe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag badwahe" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag_badwahe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_badwahe" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/13_Anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_badwahe" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<anuragbadwahe>/https://auth.geeksforgeeks.org/user/anuragbadwahe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<anuragbadwahe>/https://auth.geeksforgeeks.org/user/anuragbadwahe" height="30" width="40" /></a>
+<a href="https://twitter.com/anuragbadwahe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-badwahe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/anurag_badwahe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/13_Anurag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CodingNinjas" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anuragbadwahe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  </a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="next js" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="next js" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-21-badwahe&show_icons=true&locale=en&layout=compact" alt="anurag-21-badwahe" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-21-badwahe&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-21-badwahe&theme=dark" alt="GitHub Streak" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&locale=en" alt="anurag-21-badwahe" /></p>
+### 🏆 Recent Achievements
+- Successfully completed X+ projects in web development
+- Contributed to open-source projects
+- Solved 200+ DSA problems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-21-badwahe&" alt="anurag-21-badwahe" /></p>
+### 📌 Featured Projects
+1. [Project Name 1](link) - Brief description
+2. [Project Name 2](link) - Brief description
+3. [Project Name 3](link) - Brief description
