@@ -69,7 +69,7 @@
 </table>
 <p>
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-jet.vercel.app?user=Anurag_badwahe&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-three-jet.vercel.app?user=Anurag_badwahe&theme=tokyonight-duo)](https://git.io/streak-stats)
 </p>
 <p align="center">
   <a href="https://github.com/anurag-21-badwahe/github-readme-activity-graph">
