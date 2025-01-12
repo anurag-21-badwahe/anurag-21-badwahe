@@ -67,8 +67,10 @@
     </td>
   </tr>
 </table>
-
-[![GitHub Streak](https://github-readme-streak-stats-three-jet.vercel.app?user=Anurag_badwahe&theme=tokyonight-duo)](https://git.io/streak-stats)
+<p>
+  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-jet.vercel.app?user=Anurag_badwahe&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/anurag-21-badwahe/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag-21-badwahe&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
