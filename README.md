@@ -1,63 +1,103 @@
 # Hi, I'm Anurag Badwahe 👋  
-**Software Engineer | Full-Stack Developer | Problem Solver**
+**Software Engineer | Backend & Full-Stack | C# / .NET / Systems**
 
-I’m a software engineer focused on building **scalable, maintainable web applications** and writing **clean, production-ready code**.  
-Strong foundation in **DSA, OOP, and system-oriented thinking**, with hands-on experience across the full stack.
+Software Engineer with hands-on experience building **production-grade desktop and web applications**, working closely with **hardware, firmware, and backend systems**.  
+Strong foundation in **OOPS, Data Structures, System Design**, and **end-to-end product development**.
 
----
-
-## 🧠 Core Strengths
-- Full-Stack Web Development (Frontend + Backend)
-- Data Structures & Algorithms
-- Object-Oriented Design
-- REST APIs & Backend Architecture
-- Writing readable, testable, and maintainable code
+Currently working at **Shakti Pumps India Limited**, contributing to industrial-scale software used in real-world deployments.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend**
-- HTML5, CSS3, JavaScript, TypeScript
+## 🧠 Technical Expertise
+
+### Programming Languages
+- C++, C#
+- JavaScript, TypeScript
+- Python
+
+### Frontend
 - React.js, Next.js
+- WPF, .NET MAUI, XAML
+- HTML5, CSS3, Tailwind CSS, Material UI, ShadCN
 
-**Backend**
+### Backend
+- .NET Core, ASP.NET
 - Node.js, Express.js
-- RESTful APIs
+- REST APIs, WebSockets
 
-**Databases**
+### Databases
 - MongoDB
 - MySQL
+- SQL Server
 
-**Tools & Practices**
-- Git & GitHub
-- Clean Code Principles
-- Agile / Iterative Development
+### Developer Tools
+- Git, GitHub
+- VS Code, Visual Studio
+- Postman
+- Vercel, Render
 
----
-
-## 📌 Featured Projects
-### 🔹 Feedonymous  
-Anonymous messaging platform with secure message handling  
-🔗 https://feedonymous.vercel.app/
-
-### 🔹 Being Developer  
-All-in-one platform for software engineering students  
-🔗 https://being-dev.onrender.com
-
-### 🔹 Workflow-X  
-Employee management system with role-based workflows  
-🔗 https://workflow-x.vercel.app/
+### CS Fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- System Design
+- DBMS
+- Computer Networks
 
 ---
 
-## 📊 GitHub Stats (Consistency > Vanity)
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### **Shakti Pumps India Limited** — *Software Engineer*  
+📍 Indore | 🕒 March 2025 – Present
+
+- Developed **4+ desktop applications from scratch** using **C#, .NET, WPF, and SQL Server** for industrial production use.
+- Built and maintained **hardware testing & validation tools**, continuously extending features based on production and R&D requirements.
+- Designed and integrated **custom firmware flashing utilities**, reducing flashing time by **~30 minutes per unit**.
+- Developed an **in-house USB2CAN (SCAN) communication library** in C#, enabling reliable **PCAN-like CAN communication** and reducing dependency on third-party tools.
+- Integrated **CAN, Serial, and industrial communication protocols**, collaborating closely with firmware teams to ensure accurate software-hardware interaction.
+
+---
+
+### **Braincadle** — *Game Developer Intern*  
+🌍 Remote | 🕒 Sept 2024 – Oct 2024
+
+- Built high-performance web-based games using **JavaScript and C#**.
+- Optimized game logic and UI/UX design, improving **runtime efficiency by ~30%**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Real-Time Chat Application with AI Agents  
+**React.js | Express.js | WebSockets**
+
+- Built a **real-time messaging system** with presence (online/offline), channels, and message threading.
+- Implemented backend architecture for message handling, event lifecycle management, and inactivity cleanup.
+- Integrated AI-driven features like **context-aware responses**, live message analysis, and customizable prompts.
+- Designed a modern, responsive UI using **Radix UI, Tailwind CSS, ShadCN UI, and Lucide Icons**.
+
+---
+
+### 🔹 Feedonymous — Anonymous Messaging Platform  
+**Next.js | TypeScript | MongoDB | Tailwind CSS**
+
+- Built a secure anonymous messaging platform with **authentication, role-based access, and message moderation**.
+- Integrated **AI-powered message suggestion system** to improve engagement.
+- Implemented payments using **Razorpay**.
+- Used **Zod, React Hook Form, and ShadCN UI** for validation and clean UX.
+
+🔗 Live: https://feedonymous.vercel.app/
+
+---
+
+## 📊 GitHub Consistency & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-21-badwahe&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-21-badwahe&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -66,11 +106,18 @@ Employee management system with role-based workflows
 
 ---
 
-## 🏆 Highlights
-- Built **30+ real-world projects**
-- Solved **500+ DSA problems**
-- Regular open-source contributor
-- Strong daily coding streak & consistency
+## 🏆 Achievements
+- Solved **500+ DSA problems** across LeetCode, CodeStudio, and GeeksforGeeks
+- Built **production software used in industrial environments**
+- Strong daily coding streak & long-term consistency
+- Experience spanning **software ↔ hardware ↔ firmware collaboration**
+
+---
+
+## 🎓 Education
+**Institute of Engineering & Technology, Indore**  
+Bachelor of Technology — *Electronics & Communication Engineering*  
+2021 – 2025
 
 ---
 
@@ -80,10 +127,10 @@ Employee management system with role-based workflows
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 - LinkedIn: https://linkedin.com/in/anurag-badwahe  
 - Email: anuragbadwahe@gmail.com
 
 ---
 
-⭐ *I value clean architecture, strong fundamentals, and continuous learning. Always open to challenging problems and meaningful collaborations.*
+⭐ *I enjoy solving real engineering problems, working close to systems, and building software that actually ships.*
